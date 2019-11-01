@@ -7,7 +7,7 @@ import retrofit2.converter.moshi.MoshiConverterFactory;
 
 public class ConfigHelper {
 
-  public static final String GOOGLE_PAY_MERCHANT_ID = "REPLACE_ME";
+  public static final String GOOGLE_PAY_MERCHANT_ID = "FXDWA60SRW6HG";
   private static final String CHARGE_SERVER_HOST = "REPLACE_ME";
   private static final String CHARGE_SERVER_URL = "https://" + CHARGE_SERVER_HOST + "/";
 
