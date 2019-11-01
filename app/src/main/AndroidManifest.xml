@@ -14,7 +14,7 @@
 
     <meta-data
         android:name="sqip.SQUARE_APPLICATION_ID"
-        android:value="REPLACE_ME"/>
+        android:value="sandbox-sq0idb-wQazE7EYu09cKP3wqJ9xRQ"/>
 
     <activity
         android:name=".CheckoutActivity"
